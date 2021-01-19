@@ -47,6 +47,12 @@ Computer Technician Course at Education Institution Leader’s School (Particula
 - Advanced English Language Level, fluent in reading and speaking;
 - Multiplatform development with Node, React Native and Angular;
 
+### Most Used Languages
+
+<p align = "center">
+  <img width="800px" src = "./assets/github_languages.png">
+</p>
+
 ### Personal goals
 
 I want to be part of this institution to acquire knowledge and experience in the job market in the area of Information Technology and enrich my project portfolio.
