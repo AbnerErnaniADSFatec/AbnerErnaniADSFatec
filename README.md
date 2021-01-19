@@ -22,22 +22,22 @@ Currently, I am building a career in technology, specific in the area of ​​w
 
 - Graduated in Technology in Analysis and Systems Development, Technology College of São Paulo (FATEC São José dos Campos - Prof. Jessen Vidal) completion at 2020 June.
 
-### Academic
+### :mortar_board: Academic
 
 - English Language Course at Education Institution Leader’s School (Particular Level), English Level A2 as result test TOIEC Brigde, conclusion in 2018;
 Computer Technician Course at Education Institution Leader’s School (Particular Level), conclusion in 2017.
 
-### Certifications
+### :tada: Certifications
 
 - MongoDB University Certification - MongoDB Basics for Python Developers Course;
 - Oracle University Certification - Database Design and Query Language (SQL);
 
-## Professional background
+## :office: Professional background
 
 - SMH - UI Project CPTEC / INPE - development of a system for visualization of climatological data for associated researchers from Jan - Sep / 2019;
 - Brazil Data Cube WTSS Project DIDPI / INPE - development of an application programming interface (API) for the return of series in temporal space data for associated researchers with future applications from Nov / 2019;
 
-### Languages and general skills in computer science and programming:
+### :earth_americas: Languages and general skills in computer science and programming:
 
 - Expertise in applications with Geographic Information Systems, as well as derivatives of API, Database and Spatial Geometries;
 - Expertise in developing REST APIs in Spring Boot;
@@ -47,16 +47,12 @@ Computer Technician Course at Education Institution Leader’s School (Particula
 - Advanced English Language Level, fluent in reading and speaking;
 - Multiplatform development with Node, React Native and Angular;
 
-### Most Used Languages
+### :computer: Most Used Languages
 
 <p align = "center">
   <img width="800px" src = "./assets/github_languages.png">
 </p>
 
 ### :stars: Personal goals
-
-
-
-:hugs:
 
 I want to be part of this institution to acquire knowledge and experience in the job market in the area of Information Technology and enrich my project portfolio.
