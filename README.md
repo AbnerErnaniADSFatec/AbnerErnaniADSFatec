@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-# Trainee Web Developer, Systems Analysts IT
+# 🔭 Trainee Web Developer, Systems Analysts IT
 
 Currently, I am building a career in technology, specific in the area of ​​web development as a Full Stack Developer, looking for companies with opportunities for projects involving Intelligent Systems, Geographic Information, Image Processing and Data Science.
 
-## Educational background
+## 🌱 Educational background
 
 - Graduated in Technology in Analysis and Systems Development, Technology College of São Paulo (FATEC São José dos Campos - Prof. Jessen Vidal) completion at 2020 June.
 
@@ -53,6 +53,10 @@ Computer Technician Course at Education Institution Leader’s School (Particula
   <img width="800px" src = "./assets/github_languages.png">
 </p>
 
-### Personal goals
+###  Personal goals
+
+:stars:
+
+:hugs:
 
 I want to be part of this institution to acquire knowledge and experience in the job market in the area of Information Technology and enrich my project portfolio.
