@@ -53,9 +53,9 @@ Computer Technician Course at Education Institution Leader’s School (Particula
   <img width="800px" src = "./assets/github_languages.png">
 </p>
 
-###  Personal goals
+### :stars: Personal goals
 
-:stars:
+
 
 :hugs:
 
