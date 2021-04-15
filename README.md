@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 🔭 Trainee Web Developer, Systems Analysts IT
+# 🔭 Junior Web Developer, Systems Analysts IT
 
 Currently, I am building a career in technology, specific in the area of ​​web development as a Full Stack Developer, looking for companies with opportunities for projects involving Intelligent Systems, Geographic Information, Image Processing and Data Science.
 
