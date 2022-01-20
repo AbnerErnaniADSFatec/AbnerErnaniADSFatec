@@ -47,10 +47,12 @@ Computer Technician Course at Education Institution Leader’s School (Particula
 - Advanced English Language Level, fluent in reading and speaking;
 - Multiplatform development with Node, React Native and Angular;
 
-### :computer: Most Used Languages
+### :trophy: Most Used Languages
 
 <p align = "center">
-  <img width="800px" src = "./assets/github_languages.png">
+<!--   <img width="800px" src = ""> -->
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerErnaniADSFatec&show_icons=true&theme=tokyonight)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerErnaniADSFatec&theme=tokyonight)
 </p>
 
 ### :stars: Personal goals
