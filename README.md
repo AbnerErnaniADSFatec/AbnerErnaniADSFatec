@@ -1,8 +1,10 @@
 # 🔭 Junior Web Developer, Systems Analysts IT
 
-Currently, I am building a career in technology, specific in the area of ​​web development as a Full Stack Developer, looking for companies with opportunities for projects involving Intelligent Systems, Geographic Information, Image Processing and Data Science.
+Hello 😄! I have a Bachelor's degree in Systems Analysis and Development from the São Paulo State Technological College (Fatec). Currently, I'm a student in the Applied Computing master's program at INPE (National Institute for Space Research) and I'm working with Geographic Information Systems in the [BDC Project](http://www.brazildatacube.org/en/home-page-2/). I am currently building a career in information technology with a focus on development involving Intelligent Systems, Geographic Information Systems, and Image Processing (preferably contacted via email at [abner.anjos@inpe.br](mailto:abner.anjos@inpe.br)).
 
 ## 🌱 Educational background
+
+- Student of the Master's Program in Applied Computing at the National Institute for Space Research (INPE - São José dos Campos), admission in 2021 with expected conclusion in 2024.
 
 - Graduated in Technology in Analysis and Systems Development, Technology College of São Paulo (FATEC São José dos Campos - Prof. Jessen Vidal) completion at 2020 June.
 
