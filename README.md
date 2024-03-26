@@ -1,10 +1,10 @@
 # 🔭 Junior Web Developer, Systems Analysts IT
 
-Hello 😄! I have a Bachelor's degree in Systems Analysis and Development from the São Paulo State Technological College (Fatec). Currently, I'm a student in the Applied Computing master's program at INPE (National Institute for Space Research) and I'm working with Geographic Information Systems in the [BDC Project](http://www.brazildatacube.org/en/home-page-2/). I am currently building a career in information technology with a focus on development involving Intelligent Systems, Geographic Information Systems, and Image Processing (preferably contacted via email at [abner.anjos@gmail.com](mailto:abner.anjos@gmail.com)).
+Hello 😄! I have a master's degree in Applied Computing by National Institute for Space Research ([INPE](https://www.gov.br/inpe/pt-br)) with a Bachelor's degree in Systems Analysis and Development from the São Paulo State Technological College ([Fatec](https://fatecsjc-prd.azurewebsites.net/)). Currently, I'm a student in the Applied Computing master's program at INPE (National Institute for Space Research) and I'm working with Geographic Information Systems in the [BDC Project](http://www.brazildatacube.org/en/home-page-2/). I am currently building a career in information technology with a focus on development involving Intelligent Systems, Geographic Information Systems, and Image Processing (preferably contacted via email at [abner.anjos@gmail.com](mailto:abner.anjos@gmail.com)).
 
 ## 🌱 Educational background
 
-- Student of the Master's Program in Applied Computing at the National Institute for Space Research (INPE - São José dos Campos), admission in 2021 with expected conclusion in 2024.
+- Master's degree in Applied Computing by National Institute for Space Research (INPE - São José dos Campos), admission in 2021 with expected conclusion in 2024.
 
 - Graduated in Technology in Analysis and Systems Development, Technology College of São Paulo (FATEC São José dos Campos - Prof. Jessen Vidal) completion at 2020 June.
 
